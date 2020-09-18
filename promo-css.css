@@ -1,0 +1,30 @@
+.promo{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+	background-color: #87CEFA;
+	font-size: 60px;
+	height: 580px;
+}
+.barang{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+	background-color: #DDA0DD;
+	font-size: 60px;
+	height: 580px;
+}
+.belanja{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+	background-color: #CD853F;
+	font-size: 60px;
+	height: 580px;
+}

@@ -1,0 +1,56 @@
+*{
+	font-family: Times, "Times New Roman", serif;
+}
+.header{	/*Nama Class*/
+	text-transform: uppercase; /*Digunakan untuk membuat teks menjadi kapital/huruf besar semua*/
+	color: black;			/*Digunakan untuk memberi warna pada sebuah teks*/
+	font-weight: bold;		/*Digunakan untuk memberikan efek ketebalan pada sebuah teks*/
+	text-align: center;		/*Digunakan untuk mengatur posisi teks*/
+	padding: 10px;			/*Digunakan untuk mengatur jarak dari garis tabel ke teks*/
+	background-color: #DB7093; /*Digunakan untuk memberikan warna pada latar belakang*/
+	font-size: 30px;		/*Digunakan untuk mengatur ukuran font*/
+	height: 60px;			/*Digunakan untuk mengatur tinggi pada sebuah tabel*/
+}
+
+.box-title{		/*Nama Class*/
+	text-transform: uppercase; /*Digunakan untuk membuat teks menjadi kapital/huruf besar semua*/
+	background-color: #DB7093; /*Digunakan untuk memberikan warna pada latar belakang*/
+	font-weight: bold;			/*Digunakan untuk memberikan efek ketebalan pada sebuah teks*/
+	text-align: center;			/*Digunakan untuk mengatur posisi teks*/
+	color: black;				/*Digunakan untuk memberi warna pada sebuah teks*/
+	padding: 10px;				/*Digunakan untuk mengatur jarak dari garis tabel ke teks*/
+}
+
+.box-tepi{	/*Nama Class*/
+	width: 20%;					/*Digunakan untuk mengatur lebar sebuah tabel*/ 
+	background-color: #778899;	/*Digunakan untuk memberikan warna pada latar belakang*/
+}
+
+.isi-data{	/*Nama Class*/
+	padding: 10px;				/*Digunakan untuk mengatur jarak dari garis tabel ke teks*/
+	height: 75px;				/*Digunakan untuk mengatur tinggi pada sebuah tabel*/
+	font-size: 15px;			/*Digunakan untuk mengatur ukuran font*/
+}
+
+.sosmed{	/*Nama Class*/
+	text-align: center;			/*Digunakan untuk mengatur posisi teks*/
+	height: 15px;				/*Digunakan untuk mengatur tinggi pada sebuah tabel*/
+	text-transform: uppercase;	/*Digunakan untuk membuat teks menjadi kapital/huruf besar semua*/
+	font-weight: bold;			/*Digunakan untuk memberikan efek ketebalan pada sebuah teks*/
+	background-color: #DB7093;	/*Digunakan untuk memberikan warna pada latar belakang*/
+}
+
+.footer{	/*Nama Class*/
+	text-transform: uppercase;	/*Digunakan untuk membuat teks menjadi kapital/huruf besar semua*/
+	color: white;				/*Digunakan untuk memberi warna pada sebuah teks*/
+	text-align: center;			/*Digunakan untuk mengatur posisi teks*/
+	padding: 10px;				/*Digunakan untuk mengatur jarak dari garis tabel ke teks*/
+	background-color: #DB7093;	/*Digunakan untuk memberikan warna pada latar belakang*/
+	height: 15px;				/*Digunakan untuk mengatur tinggi pada sebuah tabel*/
+}
+.link{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 17px;
+}

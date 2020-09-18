@@ -1,0 +1,120 @@
+.header{
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+	background-color: black;
+	font-size: 60px;
+	height: 100px;
+	width: 20%;
+}
+
+.isi-data1{
+	font-size: 15px;
+	color: white;
+	font-family: monospace;
+}
+
+.link{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.link-2{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	width: 10%;
+}
+
+.baris-1{
+	height: 50px;
+}
+
+.kolom{
+	width: 30%;
+}
+
+.search{
+	padding: 8px 15px;
+	width: 60%;
+	background: rgba(50, 50, 50, 0.2);
+	border: #E9967A;
+}
+
+.button{
+	position: relative;
+	padding: 6px 15px;
+	left: 8px;
+	border: 2px solid #E9967A;
+	background-color: #E9967A;
+	color: black;
+}
+
+.button:hover{
+	background-color: #fafafa;
+	color: #207cca;
+}
+
+.user{
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #CD5C5C;
+	padding: 42px 50px;
+}
+
+.user1{
+	padding: 8px 40px;
+	width: 60%;
+	background: #fafafa;
+	border: #E9967A;
+}
+
+.isi-data{
+	font-family: monospace;
+	color: black;
+	font-size: 13px;
+	text-align: justify;
+}
+
+.beli{
+	padding: 6px 15px;
+	left: 8px;
+	border: 2px solid #CD5C5C;
+	background-color: #CD5C5C;
+	color: black
+}
+
+
+.galeri{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.kirim{
+	float: right;
+	padding: 5px 8px;
+	border: 2px solid #E9967A;
+	background-color: #E9967A;
+	color: black
+}
+.kirim:hover{
+	background-color: #fafafa;
+	color: #207cca;
+}
+.footer{
+	color: white;				
+	text-align: center;			
+	padding: 10px;				
+	background-color: black;	
+	height: 15px;
+}
+
+.contact{
+	height: 30px;
+	width: 50%;
+
+}
